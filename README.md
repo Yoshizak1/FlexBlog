@@ -1,3 +1,3 @@
 # FlexBlog
 
-Projeto FlexBlog Bikcraft feito no curso de CSS FlexBox Origamid<br>
+Projeto FlexBlog feito no curso de CSS FlexBox na Origamid<br>
